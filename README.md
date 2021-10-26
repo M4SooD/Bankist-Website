@@ -1,2 +1,2 @@
 # Bankist-Website
-Front page of our fictional bank, called Bankist
+Main page of our fictional bank, called Bankist
